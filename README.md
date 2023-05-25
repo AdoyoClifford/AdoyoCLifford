@@ -10,6 +10,6 @@
 - 🌱 I’m currently learning microservices with spring boot and spring cloud
 
 ### Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clifford-adoyo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clifford-adoyo-5b4625210/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/omollo004)
  
