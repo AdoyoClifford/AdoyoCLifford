@@ -5,11 +5,7 @@
 ### Me
 - 🌱 I’m currently learning Kotlin multiplatform
 
-### Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clifford-adoyo-5b4625210/)
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/adoyo_clifford)
-
-```
+``` Kotlin
 val AdoyoClifford = Dev {
     about {
         name = "Adoyo Clifford"
@@ -18,7 +14,7 @@ val AdoyoClifford = Dev {
     }
 
     tech {
-        day("Kotlin", "Kotlin Tutorials", "KMP")
+        day("Kotlin", "KMP Tutorials")
         night(".*".toRegex())
     }
 
