@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Kotlin multiplatform
 
 ### Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clifford-adoyo-5b4625210/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/omollo004)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/clifford-adoyo-5b4625210/)
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/omollo004)
  
