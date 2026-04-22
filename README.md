@@ -2,22 +2,23 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Mobile Developer and DevOps Engineer
-- 🤖 Building AI agents and systems
-- 🌱 I'm currently learning how to build advanced AI agents and systems
-- 💼 Working at Abya University
+- 📱 **Mobile Developer** — Building native Android & cross-platform apps with Kotlin & Jetpack Compose
+- 🤖 **AI Engineer** — Designing intelligent agents with LLMs, Google ADK & OpenAI
+- ☁️ **DevOps Engineer** — CI/CD, Docker & Kubernetes @ **Abya University**
+- 🌱 Currently exploring **Kotlin Multiplatform** and **advanced AI agent architectures**
 
 ```kotlin
 val AdoyoClifford = Dev {
     about {
         name = "Adoyo Clifford"
         company = "Abya University"
-        role = listOf("DevOps Engineer", "AI Engineer")
+        role = listOf("Mobile Developer", "AI Engineer", "DevOps Engineer")
     }
 
     tech {
-        day("Kotlin", "DevOps", "AI Agents")
-        night(".*".toRegex())
+        mobile("Kotlin", "Jetpack Compose", "KMP")
+        ai("LLMs", "Google ADK", "Vertex AI", "OpenAI")
+        devops("Docker", "Kubernetes", "CI/CD")
     }
 
     links {
@@ -27,40 +28,40 @@ val AdoyoClifford = Dev {
 }
 ```
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <!-- Add more technology icons as needed -->
+<p align="center">
+
+<!-- Mobile -->
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/>
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
 </p>
-
-## 🤖 AI Agents & Projects
-
-I'm passionate about building intelligent AI agents that can understand context, solve problems, and assist users efficiently. My work includes:
-
-- Building conversational agents using LLMs
-- Developing autonomous AI systems that can perform tasks with minimal supervision
-- Creating AI tools that augment human capabilities
-- Exploring the intersection of mobile development and AI
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/adoyo_clifford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adoyo_clifford" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/adoyo-clifford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adoyo-clifford" height="30" width="40" /></a>
-  <!-- Add more social links as needed -->
-</p>
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdoyoClifford&label=Profile%20views&color=0e75b6&style=flat" alt="AdoyoClifford" />
+  <a href="https://twitter.com/adoyo_clifford">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://linkedin.com/in/adoyo-clifford">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<!-- Last updated: 2025-05-20 05:56:58 -->
+
+
