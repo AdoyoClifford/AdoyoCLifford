@@ -5,7 +5,7 @@
 - 📱 **Mobile Developer** — Building native Android & cross-platform apps with Kotlin & Jetpack Compose
 - 🤖 **AI Engineer** — Designing intelligent agents with LLMs, Google ADK & OpenAI
 - ☁️ **DevOps Engineer** — CI/CD, Docker & Kubernetes @ **Abya University**
-- 🌱 Currently exploring **Kotlin Multiplatform** and **advanced AI agent architectures**
+- 🌱 Currently working on [**CycleSafe**](https://github.com/AdoyoClifford/cycle-safe) — a cyclist safety app for Nairobi
 
 ```kotlin
 val AdoyoClifford = Dev {
